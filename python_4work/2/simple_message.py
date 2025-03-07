@@ -1,0 +1,2 @@
+message="Informaion"
+print(message)
