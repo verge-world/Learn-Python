@@ -1,2 +1,0 @@
-message="Informaion"
-print(message)
